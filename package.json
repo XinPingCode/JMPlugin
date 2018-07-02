@@ -1,0 +1,17 @@
+{
+  "name": "JMPlugin",
+  "version": "0.0.43",
+  "cordova": {
+    "id": "JMPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "ChenXinPing",
+  "license": "ISC",
+  "description": ""
+}
